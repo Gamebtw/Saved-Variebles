@@ -1,0 +1,10 @@
+
+abar = {
+	["info"] = true,
+	["mob"] = true,
+	["h2h"] = false,
+	["timer"] = true,
+	["text"] = "standard",
+	["range"] = false,
+	["pvp"] = true,
+}

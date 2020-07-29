@@ -1,0 +1,56 @@
+
+AucAdvancedConfig = {
+	["profile.Default"] = {
+		["configator.top"] = 764.9999601302394,
+		["tooltip.marketprice.show"] = false,
+		["stat.sales.enable"] = false,
+		["stat.ilevel.quantmul"] = false,
+		["stat.histogram.quantmul"] = false,
+		["stat.simple.quantmul"] = false,
+		["stat.simple.avgmins"] = false,
+		["stat.ilevel.confid"] = false,
+		["stat.sales.ignoredsigs"] = {
+		},
+		["matcherlist"] = {
+			"Undercut", -- [1]
+		},
+		["stat.ilevel.stdev"] = false,
+		["alwaysHomeFaction"] = false,
+		["stat.simple.minbuyout"] = false,
+		["tooltip.marketprice.stacksize"] = false,
+		["stat.wowecon.useglobal"] = false,
+		["stat.stddev.quantmul"] = false,
+		["stat.ilevel.enable"] = false,
+		["marketvalue.accuracy"] = 0.006000000238418579,
+		["util.appraiser.bidtooltip"] = false,
+		["stat.purchased.quantmul"] = false,
+		["stat.purchased.enable"] = false,
+		["stat.sales.normal"] = false,
+		["stat.histogram.iqr"] = false,
+		["stat.sales.avg"] = false,
+		["configator.left"] = 560.0000426736374,
+		["stat.stddev.stdev"] = false,
+		["scandata.tooltip.modifier"] = false,
+		["stat.wowecon.sanitize"] = false,
+		["stat.stddev.enable"] = false,
+		["stat.simple.enable"] = false,
+		["stat.histogram.enable"] = false,
+		["stat.stddev.confid"] = false,
+	},
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Algalon - Main Realm"] = "Latoya",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

@@ -1,0 +1,21 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Latoya - Algalon - Main Realm"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["barslocked"] = true,
+					["mode"] = "Damage",
+					["background"] = {
+						["height"] = 149.9999876219097,
+					},
+					["barwidth"] = 203.9999599250777,
+					["spark"] = false,
+				}, -- [1]
+			},
+		},
+	},
+}

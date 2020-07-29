@@ -1,0 +1,13 @@
+
+AucAdvancedStatSimpleData = {
+	["Version"] = "2.0",
+	["RealmData"] = {
+		["Algalon - Main Realm-Horde"] = {
+			["means"] = {
+			},
+			["daily"] = {
+				["created"] = 1494633917,
+			},
+		},
+	},
+}

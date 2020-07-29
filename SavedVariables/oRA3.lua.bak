@@ -1,0 +1,69 @@
+
+oRA3DB = {
+	["namespaces"] = {
+		["BattleRes"] = {
+		},
+		["Invite"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ReadyCheck"] = {
+			["profiles"] = {
+				["Default"] = {
+					["sound"] = false,
+					["autohide"] = false,
+					["gui"] = false,
+				},
+			},
+		},
+		["Difficulty"] = {
+		},
+		["Loot"] = {
+			["profiles"] = {
+				["Default"] = {
+					["enable"] = true,
+				},
+			},
+		},
+		["Promote"] = {
+		},
+		["Cooldowns"] = {
+			["profiles"] = {
+				["Default"] = {
+					["barHeight"] = 18,
+					["onlyShowMine"] = false,
+					["lockDisplay"] = true,
+				},
+			},
+		},
+		["Tanks"] = {
+		},
+		["Consumables"] = {
+		},
+		["GuildRepairs"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Reality - Algalon - Main Realm"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["lastSelectedList"] = 1,
+			["positions"] = {
+				["oRA3ReadyCheck"] = {
+					["Height"] = 127.9999037107668,
+					["Width"] = 320.0000043767834,
+					["PosY"] = 556.0888645193793,
+					["PosX"] = 423.1110384407567,
+				},
+				["oRA3CooldownFrame"] = {
+					["Height"] = 225.0001715835838,
+					["Width"] = 244.9998304680334,
+					["PosY"] = 588.0899005980448,
+					["PosX"] = 160.7114788592281,
+				},
+			},
+			["lastSelectedPanel"] = "Checks",
+		},
+	},
+}

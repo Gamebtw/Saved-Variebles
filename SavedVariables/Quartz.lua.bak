@@ -1,0 +1,136 @@
+
+Quartz3DB = {
+	["namespaces"] = {
+		["Swing"] = {
+			["profiles"] = {
+				["Default"] = {
+					["swinggap"] = 0,
+					["barcolor"] = {
+						0.6705882352941176, -- [1]
+						0.8274509803921568, -- [2]
+						0.4509803921568628, -- [3]
+						1, -- [4]
+					},
+					["swingheight"] = 8,
+					["y"] = 289.5,
+					["x"] = 876.5,
+					["remainingtext"] = false,
+					["swingposition"] = "free",
+					["durationtext"] = false,
+				},
+			},
+		},
+		["Buff"] = {
+			["profiles"] = {
+				["Default"] = {
+					["focusbuffs"] = false,
+					["targetdebuffs"] = false,
+					["target"] = false,
+					["targetbuffs"] = false,
+					["buffnametext"] = false,
+					["debuffsbytype"] = false,
+					["focus"] = false,
+					["focusdebuffs"] = false,
+					["timesort"] = false,
+				},
+			},
+		},
+		["Interrupt"] = {
+		},
+		["Flight"] = {
+		},
+		["Pet"] = {
+			["profiles"] = {
+				["Default"] = {
+					["hideblizz"] = false,
+					["x"] = 889.3720107852148,
+				},
+			},
+		},
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["w"] = 224.5,
+					["y"] = 506.0784222462049,
+					["hideblizz"] = false,
+					["x"] = -0,
+					["showticks"] = false,
+					["hideicon"] = true,
+				},
+			},
+		},
+		["GCD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["sparkcolor"] = {
+						0.6705882352941176, -- [1]
+						0.8274509803921568, -- [2]
+						0.4509803921568628, -- [3]
+						1, -- [4]
+					},
+				},
+			},
+		},
+		["Focus"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showhostile"] = false,
+					["showfriendly"] = false,
+					["showtarget"] = false,
+					["x"] = 889.3720107852148,
+				},
+			},
+		},
+		["Target"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showhostile"] = false,
+					["showfriendly"] = false,
+					["x"] = 889.3720107852148,
+				},
+			},
+		},
+		["Range"] = {
+		},
+		["Mirror"] = {
+			["profiles"] = {
+				["Default"] = {
+					["mirroricons"] = false,
+					["mirrortimetext"] = false,
+					["hideblizzmirrors"] = false,
+					["mirrornametext"] = false,
+				},
+			},
+		},
+		["Latency"] = {
+			["profiles"] = {
+				["Default"] = {
+					["lagtext"] = false,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Phobias - Decades"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["Tradeskill"] = false,
+				["Buff"] = false,
+				["Interrupt"] = false,
+				["Flight"] = false,
+				["Pet"] = false,
+				["Range"] = false,
+				["Player"] = false,
+				["GCD"] = false,
+				["Focus"] = false,
+				["Target"] = false,
+				["Timer"] = false,
+				["Mirror"] = false,
+				["Latency"] = false,
+			},
+			["hidesamwise"] = false,
+		},
+	},
+}

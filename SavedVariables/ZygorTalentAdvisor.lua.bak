@@ -1,0 +1,18 @@
+
+ZygorTalentAdvisorSettings = {
+	["char"] = {
+		["Reality - Algalon - Main Realm"] = {
+			["debuglog"] = {
+				"17:36:15> Viewer started. ---------------------------", -- [1]
+				"17:36:16> PLAYER_ALIVE", -- [2]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Reality - Algalon - Main Realm"] = "Reality - Algalon - Main Realm",
+	},
+	["profiles"] = {
+		["Reality - Algalon - Main Realm"] = {
+		},
+	},
+}

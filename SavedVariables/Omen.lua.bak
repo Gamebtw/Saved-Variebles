@@ -1,0 +1,17 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Latoya - Algalon - Main Realm"] = "Latoya - Algalon - Main Realm",
+	},
+	["profiles"] = {
+		["Latoya - Algalon - Main Realm"] = {
+			["PositionW"] = 206.9999673792868,
+			["PositionH"] = 114.9999993845149,
+			["VGrip2"] = 119.0249379394234,
+			["PositionY"] = 295.9998955042981,
+			["Shown"] = true,
+			["PositionX"] = 1501.500268043785,
+			["VGrip1"] = 87.97495412913905,
+		},
+	},
+}

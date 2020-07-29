@@ -1,0 +1,51 @@
+
+SexyCooldownDB = {
+	["profileKeys"] = {
+		["Phobia - Decades"] = "Phobia - Decades",
+	},
+	["global"] = {
+		["dbVersion"] = 3,
+	},
+	["profiles"] = {
+		["Phobia - Decades"] = {
+			["bars"] = {
+				{
+					["events"] = {
+					},
+					["blacklist"] = {
+					},
+					["eventColors"] = {
+					},
+					["icon"] = {
+						["fontColor"] = {
+						},
+						["borderColor"] = {
+						},
+					},
+					["bar"] = {
+						["fontColor"] = {
+						},
+						["time_compression"] = 0.01,
+						["time_max"] = 10,
+						["minDuration"] = 3,
+						["flexible"] = true,
+						["fontsize"] = 4,
+						["borderColor"] = {
+						},
+						["inactiveAlpha"] = 0,
+						["backgroundColor"] = {
+						},
+						["width"] = 50.00000068387239,
+						["maxDuration"] = 0,
+						["x"] = -2000,
+						["name"] = "Bar 0",
+						["height"] = 5.00000006838724,
+						["y"] = -2000,
+						["lock"] = false,
+						["advancedOptions"] = true,
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

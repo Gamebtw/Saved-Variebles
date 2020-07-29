@@ -1,0 +1,12 @@
+
+SoundAlerterDB = {
+	["profileKeys"] = {
+		["Latoya - Algalon - Main Realm"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["path"] = "Interface\\Addons\\SoundAlerter\\Voice\\",
+			["all"] = true,
+		},
+	},
+}

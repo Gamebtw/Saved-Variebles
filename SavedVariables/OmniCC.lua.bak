@@ -1,0 +1,6 @@
+
+OmniCCGlobalSettings = {
+	["scaleText"] = false,
+	["showCooldownModels"] = false,
+	["version"] = "3.0.4",
+}

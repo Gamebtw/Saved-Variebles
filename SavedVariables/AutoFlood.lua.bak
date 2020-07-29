@@ -1,0 +1,10 @@
+
+AF_config = {
+	["Angrathar-Dream"] = {
+		["message"] = "(H) [EU] <Era> is recruiting experienced players who share same hardcore mindset of clearing heroic content efficiently in shortest time possible. Quality, Above All! Apply @https://era-eu.shivtr.com or /w me for more info!",
+		["channel"] = "global",
+		["idChannel"] = "global",
+		["rate"] = 300,
+		["system"] = "CHANNEL",
+	},
+}

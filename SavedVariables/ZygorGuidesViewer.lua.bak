@@ -1,0 +1,48 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Reality - Algalon - Main Realm"] = {
+			["maint_fetchitemdata"] = true,
+			["taxis"] = {
+			},
+			["guidename"] = "Zygor's Horde Leveling Guides\\Troll (1-13)",
+			["maint_fetchquestdata"] = true,
+			["starting"] = false,
+			["debuglog"] = {
+				"17:36:15> Viewer started. ---------------------------", -- [1]
+				"17:36:16> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"17:36:16> PLAYER_ALIVE (dead?)", -- [3]
+				"17:36:16> CacheQuestLog cached 0 quests", -- [4]
+				"17:36:16> Got completed quests list", -- [5]
+				"17:36:16> CacheQuestLog cached 3 quests", -- [6]
+				"17:36:16> New Quest: Respite for a Tormented Soul id 24872", -- [7]
+				"17:36:16> New Quest: Securing the Ramparts id 24877", -- [8]
+				"17:36:16> New Quest: Unholy Infusion id 24749", -- [9]
+				"17:36:17> CacheQuestLog cached 3 quests", -- [10]
+				"17:36:18> ZONE_CHANGED_NEW_AREA (dead?)", -- [11]
+				"17:36:34> Guides loaded. -----", -- [12]
+				"17:36:34> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [13]
+				"17:36:34> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [14]
+				"17:36:34> FocusStep 1", -- [15]
+				"17:36:34> frameNeedsUpdating, so updating.", -- [16]
+				"17:36:36> Hiding arrow with guide", -- [17]
+			},
+			["guides_history"] = {
+				{
+					["short"] = "Troll (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Troll (1-13)",
+				}, -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Reality - Algalon - Main Realm"] = "Reality - Algalon - Main Realm",
+	},
+	["profiles"] = {
+		["Reality - Algalon - Main Realm"] = {
+			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
+		},
+	},
+}

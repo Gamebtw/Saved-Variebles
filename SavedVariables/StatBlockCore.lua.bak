@@ -1,0 +1,10 @@
+
+StatBlockCoreDB = {
+	["profileKeys"] = {
+		["Nylah - Algalon - Main Realm"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
